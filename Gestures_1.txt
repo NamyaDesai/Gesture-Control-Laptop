@@ -1,0 +1,23 @@
+
+1. Brightness
+Left Hand
+distance between  thumb and index finger
+
+2. Volume Control
+Right Hand
+distance between the thumb and index finger
+
+3. Cursor Control
+Right Hand
+Move  index finger
+
+4. Click Gesture (single mouse click)
+Right Hand
+double pinch - thumb, index and middle finger togethar
+
+5. Scroll Control
+Right Hand
+index finger up - scroll down
+thumb out - scroll up
+
+Exit = Press q key 
